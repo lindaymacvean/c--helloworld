@@ -7,7 +7,7 @@ using namespace std;
 void main(){
 
   
-	cout << "Cillian is a homosapian";
+	cout << "Hello World";
 
 	_getch();
 
